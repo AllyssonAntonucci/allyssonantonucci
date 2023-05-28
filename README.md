@@ -9,8 +9,6 @@
 ##
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=allyssonantonucci&theme=react&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ##
 <div align="center"> 
 <img align="center" alt="Allys-html" width="250" src="https://allyssonantonucci.github.io/Portfolio-Allysson/img/Allys-apresentacao-port.gif">
