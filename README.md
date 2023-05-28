@@ -7,9 +7,6 @@
 </div>
 
 ##
-<br/>
-
-##
 <div align="center"> 
 <img align="center" alt="Allys-html" width="250" src="https://allyssonantonucci.github.io/Portfolio-Allysson/img/Allys-apresentacao-port.gif">
 </div> <br/>
