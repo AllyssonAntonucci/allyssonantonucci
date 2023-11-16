@@ -2,7 +2,6 @@
 
 
 <div align="center" > <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allyssonantonucci&show_icons=true&hide=contribs,prs,stars,issues&hide_border=true&theme=github_dark_dimmed" />
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyssonantonucci&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
 
